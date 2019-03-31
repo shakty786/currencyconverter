@@ -1,3 +1,4 @@
+INR 1 
 Argentine Peso 	0.625256 	1.599344
 Australian Dollar 	0.020355 	49.128963
 Bahraini Dinar 	0.005431 	184.126464
